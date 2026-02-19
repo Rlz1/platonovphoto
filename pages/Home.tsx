@@ -1,6 +1,5 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, Star, Camera, User, Heart } from 'lucide-react';
+import { ArrowRight, Star, Camera, Heart } from 'lucide-react';
 import { PORTFOLIO } from '../mockDb';
 
 export const Home = () => {
